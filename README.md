@@ -1,2 +1,2 @@
 # miniChEMBL
-Minimal but representative sat of data from ChEMBL suitable for testing applications.
+The idea od the project is to provide small but represntative set of data from ChEMBL DB in a form of JSON file, XML file and Django fixtures ready to use for testing by Travis or other CI systems and unit tests. This can be useful of other ChEMBL project and other developers interested in using ChEMBL data. The data should be always tagged with ChEMBL version. There should be also a script that prepares this data and schema description.
